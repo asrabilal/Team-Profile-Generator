@@ -37,10 +37,10 @@
    
 
   ## Questions
-  [HERE]('https://github.com/asrabilal')
+  [HERE](https://github.com/asrabilal)
 
    
   
   ## Additional Info:
-  - Github: ['asrabilal']('https://github.com/asrabilal')
-  - Email: 'asra96@gmail.com' 
+  - Github: [asrabilal](https://github.com/asrabilal)
+  - Email: asra96@gmail.com
