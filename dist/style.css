@@ -1,0 +1,64 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    width: 100%;
+    height: 80px;
+    background-color:rgb(211, 60, 60);
+    color:white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: center;
+}
+
+.card {
+    box-shadow: 2px 2px 7px rgba(0,0,0,0.5);
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+    margin: 15px;
+    width: 280px;
+}
+
+.card-title {
+    background-color: rgb(28, 106, 209);
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+    font-size: 24px;
+}
+
+.name, .title {
+    margin-bottom: 10px;
+}
+
+.card-content {
+    padding: 20px;
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+}
+
+.card-element {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(230, 230, 230);
+    border-radius: 2px;
+    padding: 10px;
+    margin: 4px;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 20%;
+}
