@@ -44,3 +44,13 @@
   ## Additional Info:
   - Github: [asrabilal](https://github.com/asrabilal)
   - Email: asra96@gmail.com
+  
+  <p>
+    <img src="https://img.shields.io/badge/-HTML-neon" />
+    <img src="https://img.shields.io/badge/-CSS-lightgrey" />
+    <img src="https://img.shields.io/badge/-JavaScript-purple" />
+    <img src="https://img.shields.io/badge/-Node-green" />
+    <img src="https://img.shields.io/badge/-OOP-blue" />
+    <img src="https://img.shields.io/badge/-npm-yellow" />
+    <img src="https://img.shields.io/badge/-Jest-orange" />
+</p>
