@@ -33,7 +33,7 @@
   "Execute 'npm Test' to run test on commad line.",
 
   ## Video:
- [Walk-through Video Link](https://photos.google.com/album/AF1QipOK2vBxMGkDHhTI9PQkSfIgW2SZ7Rai3Ufypz8I)
+ [Walk-through Video Link](https://photos.app.goo.gl/BMtES7mqX4VAu96i6)
    
 
   ## Questions
