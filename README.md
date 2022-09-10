@@ -15,19 +15,19 @@
  
 
   ## Description:
-  'A Node.js command Line application gathered the details about software engineering team and generate a custom HTML webpage to display Team members contact summary  by using Object Oriented Programming to organize information on different types of positions.'
+  A Node.js command Line application gathered the details about software engineering team and generate a custom HTML webpage to display Team members contact summary  by using Object Oriented Programming to organize information on different types of positions.
 
   ## Installation:
-  'To get a local copy up and running follow these simple steps. *Clone the repo(git clone)           *Install NPM packages(npm i)                *Run application(node index)',
+  To get a local copy up and running follow these simple steps. *Clone the repo(git clone)           *Install NPM packages(npm i)                *Run application(node index),
 
   ## Usage:
-  "Execute 'node index.js' and answer question prompts. When finished, an html file with automatically be generated in /dist, where a css file already exists, to provide the styling for the html."
+  Execute 'node index.js' and answer question prompts. When finished, an html file with automatically be generated in /dist, where a css file already exists, to provide the styling for the html.
 
   ## License:
   MIT
 
   ## Contribution:
-  Feel free to contribute.',
+  Feel free to contribute.,
 
   ## Testing:
   "Execute 'npm Test' to run test on commad line.",
